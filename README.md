@@ -18,7 +18,7 @@ I'm a **Fintech Developer** building secure, high-performance financial systems 
 ```
 Frontend       | Backend         | Data & Storage     | DevOps & Infra     | Quant & AI/ML        
 ---------------|-----------------|--------------------|--------------------|-----------------------
-TypeScript     | Python (FastAPI)| PostgreSQL         | AWS                | NumPy / pandas        
+TypeScript     | Python          | PostgreSQL         | AWS                | NumPy / pandas        
 React          | Node.js         | TimescaleDB        | Docker             | scikit-learn          
 Next.js        | Go              | Redis              | GitHub Actions     | XGBoost               
 Tailwind CSS   | Java (Spring)   | S3 / Cloud Storage | Terraform          | Prophet / LightGBM    
