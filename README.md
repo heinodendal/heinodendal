@@ -20,9 +20,9 @@ Frontend       | Backend         | Data & Storage     | DevOps & Infra     | Qua
 ---------------|-----------------|--------------------|--------------------|-----------------------
 TypeScript     | Python          | PostgreSQL         | AWS                | NumPy / pandas        
 React          | Node.js         | TimescaleDB        | Docker             | scikit-learn          
-Next.js        | Go              | Redis              | GitHub Actions     | XGBoost               
-Tailwind CSS   | Java (Spring)   | S3 / Cloud Storage | Terraform          | Prophet / LightGBM    
-Chart.js       | REST / GraphQL  | Apache Kafka       | Kubernetes         | TensorFlow / PyTorch  
+Next.js        | tRPC            | Redis              | GitHub Actions     | XGBoost               
+Tailwind CSS   | GraphQL         | S3 / Cloud Storage | Terraform          | Prophet / LightGBM    
+Chart.js       | REST            | Apache Kafka       | Kubernetes         | TensorFlow / PyTorch  
 ```
 
 ## Let's Connect
