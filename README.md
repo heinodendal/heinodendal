@@ -16,13 +16,13 @@ I'm a **Fintech Developer** building secure, high-performance financial systems 
 ## Tech Stack
 
 ```
-Frontend       | Backend         | Data & Storage     | DevOps & Infra     | Quant & AI/ML        
----------------|-----------------|--------------------|--------------------|-----------------------
-TypeScript     | Python          | PostgreSQL         | AWS                | NumPy / pandas        
-React          | Node.js         | TimescaleDB        | Docker             | scikit-learn          
-Next.js        | tRPC            | Redis              | GitHub Actions     | XGBoost               
-Tailwind CSS   | GraphQL         | S3 / Cloud Storage | Terraform          | Prophet / LightGBM    
-Chart.js       | REST            | Apache Kafka       | Kubernetes         | TensorFlow / PyTorch  
+Frontend      | Backend  | Data & Storage      | DevOps & Infra  | Quant & AI/ML        
+--------------|----------|---------------------|-----------------|-----------------------
+TypeScript    | Python   | PostgreSQL          | AWS             | NumPy / pandas        
+React         | Node.js  | TimescaleDB         | Docker          | scikit-learn          
+Next.js       | tRPC     | Redis               | GitHub Actions  | XGBoost               
+Tailwind CSS  | GraphQL  | S3 / Cloud Storage  | Terraform       | Prophet / LightGBM    
+Chart.js      | REST     | Apache Kafka        | Kubernetes      | TensorFlow / PyTorch  
 ```
 
 ## Let's Connect
